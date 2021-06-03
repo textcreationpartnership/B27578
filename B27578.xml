@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal concerning an English atlas</title>
+            <author>Ogilby, John, 1600-1676.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27578</idno><idno type="EEBO-CITATION">31355713</idno>
+  <idno type="VID">205947</idno>
+  <idno type="EEBO-PROQUEST">2240895826</idno>
+  
+            <idno type="STC">Wing O179</idno>
+            <idno type="OCLC">31355713</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205947)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal concerning an English atlas</title>
+                  <author>Ogilby, John, 1600-1676.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1669]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: May the 10th 1669.</note>
+                  <note>Imperfect: cropped, with loss of text.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Booksellers and bookselling --  Colportage, subscription trade, etc.</term>
+               <term type="topical_term">Atlases --  Publishing.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:205947:1"/>
+            <head>MAY the 10<seg rend="sup">th</seg> 1669. A PROPOSAL CONCERNING An English Atlas.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas Mr. <hi>OGILBY</hi> Erected a Standing Lottery of Books of his own Composure, which were lately Drawn to the general Satisfaction of all, by which Low-rated Vendition, or New Whole-sale of High-pric'd Volumns, he hath not onely Recruited his Loss by Fire, and his Purse with a competency of Gain, but also by his fair and ingenious Dealing, got a handsom Stock of Reputation; Whereby enabled, encouraged, and still covetous of Fame, and having likewise by a long habit contracted a Necessity of retired Endeavors, he is forced for his Divertisement as well as Profit, to prosecute whilest he hath vigour and abilities, the Business of the Pen.</p>
+            <p>And as at first stooping at no small Game, he fell upon <hi>Virgil,</hi> Prince of Latine, and on <hi>Homer,</hi> Prince of all Poets, then, thought Bold Undertakings, and almost impossible to be rendred in our Modern Dress, and Mode of English Language; He now in like manner resolves to overcome, breaking through all Difficulties, a far greater and higher Design looking down on <hi>Pernassus,</hi> Greek and Latine Paper-Kingdoms, girding himself couragiously for no less than the Conquest of the whole World, making the Terrestrial Globe his Quarry, by a New and Accurate Description of its four Quarters, <hi>viz. EƲROPE, ASIA, AFRICK,</hi> and <hi>AMERICA,</hi> and teaching them English, bring home in triumph illustrated with large Maps, and embellished with various Sculptures of their several Concerns, adorning with their most Fa<g ref="char:EOLhyphen"/>mous Cities, and other Rarities and New Remarks, the product of our later Discoveries.</p>
+            <p>Which how to carry on, that there may be no halt in the procedure of so long and difficult an Ex<g ref="char:EOLhyphen"/>pedition, and that those his Friends and Subscribers may reap also to their ample Satisfaction a fair Be<g ref="char:EOLhyphen"/>nefit in return from the Author, Thus as a proper and easie Expedient, he Proposeth</p>
+            <p>AFRICA, <hi>though not remotest, yet furthest from our Acquaintance, the Author intends to be the First Vo<g ref="char:EOLhyphen"/>lumn.</hi>
+            </p>
+            <p>AMERICA, <hi>being the next least known, the Second.</hi>
+            </p>
+            <p>ASIA, <hi>according to the same order, the Third.</hi>
+            </p>
+            <p>EUROPE, <hi>that hath been most Surveyed, of which much is to be said that hath not yet been Collected by any English Author, he designs to be his Fourth and Fifth Volumn; the last, but not the least in our Concerns, will onely contain the Business of</hi> Great Britain, <hi>or our</hi> English Monarchy.</p>
+            <p>
+               <hi>Which to purchase at no great Adventure, nor heavy Disbursements, whosoever will be pleased to deposite Twenty Shillings, being his first Payment, shall be Registred and Entituled to the whole Work,</hi> viz <hi>the fore-mentioned Five Volumns, and have Security under the Hand and Seal of the</hi> Author.</p>
+            <p>
+               <hi>His next, or Second Payment being Twenty Shillings more, at the Reception of his first Book,</hi> Africa <hi>Compleat.</hi>
+            </p>
+            <p>
+               <hi>And so in like manner depositing Twenty Shillings for the Second Volumn, paying Twenty Shillings more at the Recep<g ref="char:EOLhyphen"/>tion thereof, being</hi> America <hi>compleat.</hi>
+            </p>
+            <p>
+               <hi>The like order to be observed in the other Three ensuing Volumns, which in all amounts to Ten Pounds: The Author de<g ref="char:EOLhyphen"/>signing the whole Work to be really worth Twenty Pounds; The like Volumns being now sold in</hi> Holland <hi>for Thirty Pounds.</hi>
+            </p>
+            <p>
+               <hi>Secondly, and lastly, whosoever for his Friends or himself Depositeth Five Pound<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Subscribeth for Five Perfect Sets of the said Volumns, shall additionally receive for his Kindness in acce<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erating the <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>siness, one perfect Set more, that is, Six for Five.</hi>
+            </p>
+            <p>
+               <hi>The Author doubts not, if Subscriptions come in cheerfully, to have the first Volumn,</hi> Africa <hi>compleated, by</hi> Easter <hi>Term</hi> 1670. <hi>and the rest in a fair preparation.</hi>
+            </p>
+            <p>Those that please to Subscribe, and pay in their Money, may repair to Mr. <hi>John Cade</hi> Stationer, at the <hi>Globe</hi> in <hi>Broad-street,</hi> near the South-gate of <hi>Gresham-Colledge,</hi> now the <hi>Exchange;</hi> or to Mr. <hi>Ogilby's</hi> Offic<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the <hi>Black Boy</hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> against St. <hi>Dunstans</hi> Church, where they shall receive their signed <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
